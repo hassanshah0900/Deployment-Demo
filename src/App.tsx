@@ -31,7 +31,7 @@ function App() {
             fontFamily: "sans-serif",
           }}
         >
-          The Site is Under Construction
+          The Site is Under Construction for a long time.
         </span>
       </div>
     </main>
