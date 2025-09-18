@@ -2,6 +2,7 @@ import logo from "./assets/logo.svg";
 import denimous from "./assets/Denimous.svg";
 import "./App.css";
 
+// I don't know this comment.
 function App() {
   return (
     <main>
